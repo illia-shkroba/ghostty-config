@@ -41,20 +41,25 @@ cursor-style = block
 cursor-style-blink = false
 
 # Keybindings
+
+## Remove all defaults
+keybind = clear
+
+## Aliases
 keybind = ctrl+[=text:\x1b
 keybind = ctrl+i=text:\t
 keybind = ctrl+m=text:\r
 
-# Copy/Paste
+## Copy/Paste
 keybind = alt+shift+c=copy_to_clipboard
 keybind = alt+shift+v=paste_from_clipboard
 keybind = alt+c=copy_to_clipboard
 keybind = alt+v=paste_from_clipboard
 
-# New window
+## New window
 keybind = alt+enter=new_window
 
-# Zoom
+## Zoom
 keybind = alt+shift+home=reset_font_size
 keybind = alt+shift+k=increase_font_size:1
 keybind = alt+shift+j=decrease_font_size:1
