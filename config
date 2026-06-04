@@ -59,6 +59,9 @@ keybind = alt+v=paste_from_clipboard
 ## New window
 keybind = alt+enter=new_window
 
+## Search
+keybind = ctrl+shift+f=start_search
+
 ## Zoom
 keybind = alt+shift+home=reset_font_size
 keybind = alt+shift+k=increase_font_size:1
