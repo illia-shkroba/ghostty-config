@@ -28,6 +28,7 @@ selection-foreground = cdd6f4
 split-divider-color = 313244
 
 # Minimalism
+link-url = false
 window-decoration = false
 scrollbar = never
 window-padding-x = 2
