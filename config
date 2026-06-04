@@ -40,6 +40,8 @@ cursor-style = block
 cursor-style-blink = false
 
 # Keybindings
+keybind = ctrl+[=text:\x1b
+keybind = ctrl+i=text:\t
 keybind = ctrl+m=text:\r
 
 # Copy/Paste
